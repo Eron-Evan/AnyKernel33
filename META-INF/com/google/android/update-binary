@@ -430,7 +430,6 @@ ui_print "  NN    E     B   B  U   U  L     A    A       ";
 ui_print "  N N   EEEE  BBBB   U   U  L     AAAAAA       ";
 ui_print "  N  N  E     B   B  U   U  L     A    A       ";
 ui_print "  N   N EEEE  BBBB    UUU   LLLLL A    A       ";
-ui_print "  
 ui_print "|--------------Nebula-spaced---------------|";
 ui_print "|---------------By HELLINFIX---------------|";
 ui_print "|-------Bring Cosmic canvas Nebula---------|";
